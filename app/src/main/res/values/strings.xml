@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application_firebase</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo" />
+    <string name="your_cart" />
+    <string name="total_0_00" />
+    <string name="proceed_to_checkout" />
+    <string name="welcome_to_food_ordering_app" />
+    <string name="go_to_cart" />
+    <string name="view_menu" />
+    <string name="view_menu1">View Menu</string>
+    <string name="go_to_cart1">Go to Cart</string>
+    <string name="proceed_to_checkout1">Proceed to Checkout</string>
+    <string name="restaurant_image_description1">Restaurant image description</string>
+    <string name="restaurant_image_description12">Restaurant_image_description1</string>
+</resources>
